@@ -1,0 +1,13 @@
+.action {
+    float: right;
+    display: block;
+    margin-top: 20px;
+}
+
+.float-left {
+    float: left;
+}
+
+.alert {
+    cursor: pointer;
+}
